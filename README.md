@@ -14,7 +14,8 @@
 
 <header class="responsive-header">
   <div class="profile-photo">
-    <img src="D:/frontend/logo.png" alt="Photo of Althea Apostol">
+    <img src="![image](https://github.com/user-attachments/assets/09374a20-13ae-45a7-89f8-983c88d63074)
+" alt="Photo of Althea Apostol">
   </div>
 
   <h1>Althea Apostol</h1>
