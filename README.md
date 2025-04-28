@@ -94,7 +94,8 @@
     <p>My personal site showcasing everything I love doing.</p>
   </div>
 </section>
-
+ <div>
+<section>
 💬 Testimonials
 "Althea's work is exceptional! She delivered beyond expectations."
 
