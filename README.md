@@ -138,6 +138,8 @@
     </div>
   </div>
 </section>
- <script src="script.js" ></script>
+<!-- In your index.html -->
+<script src="script.js" defer></script>
+
 </body>
 </html>
