@@ -3,8 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Althea Apostol's personal web portfolio showcasing skills, projects, and experience.">
-  <title>Portfolio</title>
   <link rel="stylesheet" href="style.css">
   <script src="javascript.js" defer></script>
 </head>
