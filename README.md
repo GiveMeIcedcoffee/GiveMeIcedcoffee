@@ -95,39 +95,27 @@
   </div>
 </section>
 
-<section id="contact" class="contact">
-  <h2>Contact</h2>
-  <p>Email me at: <strong>altheaapostol001@gmail.com</strong></p>
-  <p>Follow me on:</p>
-  <ul>
-    <li>
-      <a href="https://www.facebook.com/thea.apostol.1/" target="_blank">
-        <img src="D:/frontend/facebook-logo.png" alt="Facebook Logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.instagram.com/icedcoffeex_x?igsh=MW9lNWgwcTYyaWY1aA==" target="_blank">
-        <img src="D:/frontend/instagram-logo.png" alt="Instagram Logo">
-      </a>
-    </li>
-  </ul>
-</section>
+💬 Testimonials
+"Althea's work is exceptional! She delivered beyond expectations."
 
-<section id="testimonials" class="testimonials">
-  <div class="testimonial-container">
-    <div class="testimonial-card">
-      <h2>Testimonials</h2>
-      <p>"Althea's work is exceptional! She delivered beyond expectations."</p>
-      <cite>- Happy Client</cite>
-    </div>
-    <div class="testimonial-card">
-      <p>"A true professional with an eye for detail. Highly recommended!"</p>
-      <cite>- Team Lead</cite>
-    </div>
-    <div class="testimonial-card">
-      <p>"Working with Althea was a pleasure. Her creativity and dedication are unmatched."</p>
-      <cite>- Project Manager</cite>
-    </div>
+Happy Client
+
+"A true professional with an eye for detail. Highly recommended!"
+
+Team Lead
+
+"Working with Althea was a pleasure. Her creativity and dedication are unmatched."
+
+Project Manager
+
+📧 Contact Information
+Feel free to reach out to me!
+
+📧 Email: altheaapostol001@gmail.com
+
+💼 LinkedIn: Althea Apostol LinkedIn
+
+📱 Instagram: @icedcoffeex_x
   </div>
 </section>
 
