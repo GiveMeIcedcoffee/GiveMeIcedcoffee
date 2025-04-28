@@ -1,4 +1,4 @@
-<style>
+
     h3 {
       color: var(--text-color);
       background-color: rgba(56, 56, 56, 0.87);
@@ -193,4 +193,4 @@
       from { opacity: 0; transform: translateY(30px); }
       to { opacity: 1; transform: translateY(0); }
     }
-  </style>
+
