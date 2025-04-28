@@ -5,10 +5,10 @@
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
 <head>
-  <script src="script.js" defer></script>
+  <title>portfolio</title>
 </head>
 
-</head>
+
 
 <body>
 
