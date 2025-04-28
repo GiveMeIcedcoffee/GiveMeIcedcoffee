@@ -13,15 +13,10 @@
 <body>
 
 <header class="responsive-header">
-  <div class="profile-photo">
-    <img src="https://github.com/user-attachments/assets/09374a20-13ae-45a7-89f8-983c88d63074
-" alt="Photo of Althea Apostol">
-  </div>
+
 
   <h1>Althea Apostol</h1>
   <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>
-
-  <button class="toggle-btn">🌙 Dark Mode</button>
 
   <hr>
 
