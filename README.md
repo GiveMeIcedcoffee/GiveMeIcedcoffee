@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
-  <script src="script.js" defer></script>
+ 
 <head>
   <title>portfolio</title>
 </head>
@@ -138,6 +138,6 @@
     </div>
   </div>
 </section>
-
+ <script src="script.js" ></script>
 </body>
 </html>
