@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="style.css">
  
 <head>
-  <title>portfolio</title>
+ 
 </head>
 
 
@@ -138,8 +138,6 @@
     </div>
   </div>
 </section>
-<!-- In your index.html -->
-<script src="script.js" defer></script>
 
 </body>
 </html>
