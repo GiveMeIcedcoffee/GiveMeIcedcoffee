@@ -15,7 +15,7 @@
       <img src="assets/images/logo.png" alt="Photo of Althea Apostol" style="width:150px; height:auto; border-radius:50%;">
     </div>
     <h1>Althea Apostol</h1>
-    <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>
+    <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>_
     <button class="toggle-btn" onclick="toggleTheme()">🌙 Dark Mode</button>
 
     <hr style="border: 1px solid #ccc; width: 100%; margin: 20px auto;">
