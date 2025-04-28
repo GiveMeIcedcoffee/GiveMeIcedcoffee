@@ -53,11 +53,7 @@
 
 <section id="experience" class="experience">
   <h2>Experience</h2>
-  <div class="job">
-    <h3>Web Developer Intern</h3>
-    <p><strong>Company Name</strong> | June 2024 - August 2024</p>
-    <p>Developed and maintained responsive websites, collaborated with designers and back-end developers, and optimized website performance.</p>
-  </div>
+
   <div class="job">
     <h3>Freelance UI/UX Designer</h3>
     <p><strong>Self-Employed</strong> | January 2023 - Present</p>
@@ -69,7 +65,7 @@
   <h2>Education</h2>
   <div class="school">
     <h3>Bachelor of Science in Information Technology</h3>
-    <p><strong>University Name</strong> | 2021 - 2025</p>
+    <p><strong>Cavite State University Name</strong> |Present</p>
     <p>Specialized in web development, software engineering, and user experience design.</p>
   </div>
 </section>
