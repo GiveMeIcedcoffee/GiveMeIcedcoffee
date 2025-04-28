@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Portfolio</title>
+  <meta name="description" content="Althea Apostol's personal web portfolio showcasing skills, projects, and experience.">
+  <title>Portfolio</title>
   <link rel="stylesheet" href="style.css">
   <script src="javascript.js" defer></script>
-
 </head>
 
 <body>
@@ -15,7 +15,7 @@
       <img src="assets/images/logo.png" alt="Photo of Althea Apostol" style="width:150px; height:auto; border-radius:50%;">
     </div>
     <h1>Althea Apostol</h1>
-    <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>_
+    <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>
     <button class="toggle-btn" onclick="toggleTheme()">🌙 Dark Mode</button>
 
     <hr style="border: 1px solid #ccc; width: 100%; margin: 20px auto;">
@@ -48,7 +48,7 @@
     <p>Hello! I'm Althea Apostol you can call me <strong>Thea</strong>, a passionate developer with a love for clean code, beautiful designs, and smooth user experiences. I'm still learning, so feel free to teach me T~T</p>
   </section>
 
-  <!-- Other sections like Experience, Education, Certifications, Projects, etc. -->
+  <!-- Add your other sections here -->
 
   <footer class="cute-footer">
     <div class="footer-content">
