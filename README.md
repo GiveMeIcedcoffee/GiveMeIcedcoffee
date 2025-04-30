@@ -16,7 +16,7 @@
 
 
   <h1>Althea Apostol</h1>
-  <p>Web Developer | UI/UX Designer | Back end sa Capstone namin hehe</p>
+  <p>Web Developer | UI/UX Designer | Back End Developer sa Capstone namin hehe</p>
 
   <hr>
 
