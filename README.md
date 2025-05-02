@@ -3,23 +3,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
- 
 <head>
- 
 </head>
-
-
-
 <body>
-
 <header class="responsive-header">
-
-
   <h1>Althea Apostol</h1>
   <p>Web Developer | UI/UX Designer | Back End Developer in our Capstone hehe</p>
-
   <hr>
-
   <nav>
     <a href="#home">Home</a> | 
     <a href="#about">About</a> | 
