@@ -45,9 +45,9 @@
   <h2>Experience</h2>
 
   <div class="job">
-    <h3>Freelance UI/UX Designer</h3>
-    <p><strong>Self-Employed</strong> | January 2023 - Present</p>
-    <p>Designed user-friendly interfaces for various clients, ensuring seamless user experiences and modern aesthetics.</p>
+    <h3>Still a student willing to learn </h3>
+    <p><strong>Self-Employed</strong> | January 2025 - Present</p>
+    <p>Exploring Tech world.</p>
   </div>
 </section>
 
