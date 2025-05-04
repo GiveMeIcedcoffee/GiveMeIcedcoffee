@@ -99,9 +99,7 @@ Happy Client
 "Working with Althea was a pleasure. Her creativity and dedication are unmatched."
 
 -Project Manager
-
 </section>
-
 <section id="Testimonials" class="Testimonials">
   <h2>💬 📧 Contact Information</h2>
 
