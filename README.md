@@ -103,8 +103,8 @@ Happy Client
 </section>
 
 <section id="Testimonials" class="Testimonials">
-  <h2>💬 Testimonials</h2>
-📧 Contact Information
+  <h2>💬 📧 Contact Information</h2>
+
 Feel free to reach out to me!
 
 📧 Email: altheaapostol001@gmail.com
