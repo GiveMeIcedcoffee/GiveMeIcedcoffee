@@ -86,22 +86,8 @@
   </div>
 </section>
 <br><br><br>
- <section id="Testimonials" class="Testimonials">
-  <h2>💬 Testimonials</h2>
 
-"Althea's work is exceptional! She delivered beyond expectations."
-
-Happy Client
-
-"A true professional with an eye for detail. Highly recommended!"
-
--Team Lead
-
-"Working with Althea was a pleasure. Her creativity and dedication are unmatched."
-
--Project Manager
-</section>
-<section id="Testimonials" class="Testimonials">
+<section id=" Contact Information" class=" Contact Information">
   <h2>💬 📧 Contact Information</h2>
 
 Feel free to reach out to me!
