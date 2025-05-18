@@ -19,7 +19,6 @@
     <a href="#skills">Skills</a> | 
     <a href="#experience">Experience</a> | 
     <a href="#education">Education</a> | 
-    <a href="#certifications">Certifications</a> | 
     <a href="#testimonials">Testimonials</a>
   </nav>
 </header>
@@ -63,15 +62,6 @@
     <p><strong>Felipe Calderon Elementary School</strong> |2011-2016</p>
     <p><strong> LooneyTunes Daycare Center </strong> |2010-2011</p>
   </div>
-</section>
-
-<section id="certifications" class="certifications">
-  <h2>Certifications</h2>
-  <ul>
-    <li><strong>Responsive Web Design</strong> - freeCodeCamp</li>
-    <li><strong>JavaScript Algorithms and Data Structures</strong> - freeCodeCamp</li>
-    <li><strong>UI/UX Design Essentials</strong> - Udemy</li>
-  </ul>
 </section>
 
 <section id="projects" class="projects">
