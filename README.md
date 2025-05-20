@@ -38,7 +38,7 @@
 
 <section id="about" class="about">
   <h2>About Me</h2>
-  <p>Hello! I'm Althea Apostol you can call me <strong>Thea</strong>, a passionate developer with a love for clean code, beautiful designs, and smooth user experiences. I specialize in creating modern, responsive websites. I'm still learning so feel free to teach me T~T</p>
+  <p>Hello !!! I'm Althea Apostol you can call me <strong>Thea</strong>, a passionate developer with a love for clean code, beautiful designs, and smooth user experiences. I specialize in creating modern, responsive websites. I'm still learning so feel free to teach me T~T ... </p>
 </section>
 
 <section id="experience" class="experience">
@@ -59,7 +59,7 @@
     <p>Specialized in web development, software engineering, and user experience design.</p>
      <p><strong>Far East Asia Pacific Institute of Tourism Science and Technology </strong> |2020-2022</p>
     <p><strong>Tanza National Comprehensive Highschool </strong> |2016-2020</p>
-    <p><strong>Felipe Calderon Elementary School</strong> |2011-2016</p>
+    <p><strong>Felipe Calderon Elementary School </strong> |2011-2016</p>
     <p><strong> LooneyTunes Daycare Center </strong> |2010-2011</p>
   </div>
 </section>
@@ -95,15 +95,12 @@ Happy Client
 
 -Project Manager
 </section>
-<section id="Testimonials" class="Testimonials">
+
   <h2>💬 📧 Contact Information</h2>
 
 Feel free to reach out to me!
 
 📧 Email: altheaapostol001@gmail.com
-
-💼 LinkedIn: Althea Apostol LinkedIn
-
 📱 Instagram: @icedcoffeex_x
   </div>
 </section>
