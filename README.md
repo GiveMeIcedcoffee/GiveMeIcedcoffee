@@ -80,8 +80,7 @@
   </div>
 </section>
 <br><br><br>
- <section id="Testimonials" class="Testimonials">
-  <h2>💬 Testimonials</h2>
+ 
 
 "Althea's work is exceptional! She delivered beyond expectations."
 
