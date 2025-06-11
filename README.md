@@ -81,9 +81,6 @@
 </section>
 <br><br><br>
  
-
-...........
-
 Happy Client
 
 "A true professional with an eye for detail. Highly recommended!"
