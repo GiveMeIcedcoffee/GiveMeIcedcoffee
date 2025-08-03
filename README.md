@@ -38,7 +38,7 @@
 
 <section id="about" class="about">
   <h2>About Me</h2>
-  <p>Hello !!! I'm Althea Apostol you can call me <strong>Thea</strong>, a passionate developer with a love for clean code, beautiful designs, and smooth user experiences. I specialize in creating modern, responsive websites. I'm still learning so feel free to teach me T~T ... </p>
+  <p>Hello I'm Althea Apostol you can call me <strong>Thea</strong>, a passionate developer with a love for clean code, beautiful designs, and smooth user experiences. I specialize in creating modern, responsive websites. I'm still learning so feel free to teach me T~T ... </p>
 </section>
 
 <section id="experience" class="experience">
