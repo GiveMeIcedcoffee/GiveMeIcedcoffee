@@ -8,7 +8,7 @@
 </head>
 <body>
 <header class="responsive-header">
-  <h1>Althea Apostol</h1>
+  <h3>Althea Apostol</h3?
   <p>Web Developer | UI/UX Designer | Back End Developer in our Capstone Project </p>
   <hr>
   <nav>
