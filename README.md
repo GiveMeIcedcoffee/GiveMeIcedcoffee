@@ -78,19 +78,6 @@
     <h3>Portfolio Site</h3>
     <p>My personal site showcasing everything I love doing.</p>
   </div>
-</section>
-<br><br><br>
- 
-Happy Client
-
-"A true professional with an eye for detail. Highly recommended!"
-
--Team Lead
-
-"Working with Althea was a pleasure. Her creativity and dedication are unmatched."
-
--Project Manager
-</section>
 
   <h2>💬 📧 Contact Information</h2>
 
