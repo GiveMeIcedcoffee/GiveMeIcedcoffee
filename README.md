@@ -69,10 +69,6 @@
     <p>Built an awesome responsive site using HTML, CSS, JS.</p>
   </div>
   <div class="project">
-    <h3>Creative App</h3>
-    <p>Designed and developed a mobile-first application that users love.</p>
-  </div>
-  <div class="project">
     <h3>Portfolio Site</h3>
     <p>My personal site showcasing everything I love doing.</p>
   </div>
