@@ -62,7 +62,6 @@
     <p><strong> LooneyTunes Daycare Center </strong> |2010-2011|</p>
   </div>
 </section>
-
 <section id="projects" class="projects">
   <h2>Projects</h2>
   <div class="project">
@@ -77,7 +76,6 @@
     <h3>Portfolio Site</h3>
     <p>My personal site showcasing everything I love doing.</p>
   </div>
-
   <h2>💬 📧 Contact Information</h2>
 Feel free to reach out to me!
 
