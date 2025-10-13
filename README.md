@@ -79,7 +79,6 @@
   </div>
 
   <h2>💬 📧 Contact Information</h2>
-sfafddddddddddddddddf
 Feel free to reach out to me!
 
 📧 Email: altheaapostol001@gmail.com
