@@ -8,7 +8,7 @@ asdfgazsxdcfvghgfdsdftgyhugfdfgfgfgfgfggggggghjkasfghjkdoiuyesuiaoweiuygfdscxvzb
 <body>
 <header class="responsive-header">
   <h3>Althea Apostol</h3?
-  <p>Web Developer | UI/UX Designer | Back End Developer in our Capstone Project </p>
+| <p>Web Developer | UI/UX Designer | Back End Developer in our Capstone Project </p>
   <hr>
   <nav>
     <a href="#home">Home</a> | 
